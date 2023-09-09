@@ -1,0 +1,10 @@
+
+__pycache__/
+
+.env
+lc_venv/
+
+.cache
+.Ds_Store
+
+ipython_config.py

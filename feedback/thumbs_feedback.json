@@ -1,0 +1,18 @@
+{
+    "feedback_type": "thumbs",
+    "user_response": {
+        "User satisfaction: thumbs": ":1 - thumbs up:",
+        "[Optional] Provide additional feedback": ""
+    },
+    "data": null,
+    "model": null,
+    "collaborators": [],
+    "open": true,
+    "tags": null,
+    "git_commit": null,
+    "timestamp": 1694259024,
+    "created_by": null,
+    "closed_on": null,
+    "closed_by": null,
+    "metadata": null
+}
