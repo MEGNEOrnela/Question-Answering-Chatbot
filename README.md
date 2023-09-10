@@ -2,7 +2,7 @@
 
 This app provides answers to questions related to  child food and nutrition with sourced information. The responses are provided in the same language as the input questions.
 
-This work is inspired by this [course](https://learn.activeloop.ai/courses/take/langchain/multimedia/46318222-build-a-question-answering-chatbot-over-documents-with-sources), offered by [Gen AI 360](https://learn.activeloop.ai/courses/langchain).
+This work is inspired by this [course](https://learn.activeloop.ai/order?ct=c8c2189a-b8ef-4f77-a5b4-ef225ee6d385), offered by [Gen AI 360](https://learn.activeloop.ai/courses/langchain).
 
 ## Description
 
