@@ -1,8 +1,8 @@
 # 👋 Welcome to Tiny NutriKids Guide 🥙🧒
 
-This app provides answer to questions related to  child food and nutrition with sourced information. The responses are provided in the same language as the input questions.
+This app provides answers to questions related to  child food and nutrition with sourced information. The responses are provided in the same language as the input questions.
 
-This work is inspired by this [course](https://learn.activeloop.ai/courses/take/langchain/multimedia/46318222-build-a-question-answering-chatbot-over-documents-with-sources), offer by [Gen AI 360](https://learn.activeloop.ai/courses/langchain).
+This work is inspired by this [course](https://learn.activeloop.ai/courses/take/langchain/multimedia/46318222-build-a-question-answering-chatbot-over-documents-with-sources), offered by [Gen AI 360](https://learn.activeloop.ai/courses/langchain).
 
 ## Description
 
