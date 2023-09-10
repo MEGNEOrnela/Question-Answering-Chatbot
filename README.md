@@ -13,7 +13,7 @@ The following points outline the steps used to achieve the task:
 
 - Split the article texts into smaller chunks, keeping track of each chunk's source.
 
-- Utilize RetrievalQAWithSourcesChain to create a chatbot that retrieves answers and tracks their sources.
+- Utilize `RetrievalQAWithSourcesChain` to create a chatbot that retrieves answers and tracks their sources.
 
 - Generate a response to a query using the chain and display the answer along with its sources.
 
